@@ -182,6 +182,8 @@
 				ORGANIZATIONNAME = Apple;
 				TargetAttributes = {
 					9B59E5AF174E7BF20083A8A5 = {
+						DevelopmentTeam = 297LS67QZ8;
+						DevelopmentTeamName = "Yan Bonan";
 						SystemCapabilities = {
 							com.apple.BackgroundModes = {
 								enabled = 0;
